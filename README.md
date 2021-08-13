@@ -1,2 +1,2 @@
-# theo-learning
-Project documents for Theo's familiarisation tasks
+# Trustedshops API call
+Practice with handling and transforming data from calls to Trustedshops API
